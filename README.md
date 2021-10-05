@@ -2,8 +2,8 @@
 A program that converts numbers to their text representation.
 
 Example:
-Input: 1123
-Output: one thousand one hundred twenty three
+  Input: 1123
+  Output: one thousand one hundred twenty three
 
 - This program only works with the number has less than 10 digits
 - This program do not work with decimal
